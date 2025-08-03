@@ -613,7 +613,7 @@ div.cave-grid>img:hover{
 }
 /*preg Lions*/
 div.cave-grid>img[src$="nestingbanner.png"] {
-	content: url('https://i.ibb.co/m5PvK1XJ/VoidPreg.png')!important;
+	content: url('https://i.ibb.co/LdTzz2Xk/Void-Para-Preg.png')!important;
 }
 /* unsorted cave */
 div.cave-grid>img[src$="unsortedlionsbanner.png"] {
@@ -625,7 +625,7 @@ div.cave-grid>img[src$="prideoverviewbanner.png"] {
 }
  /* Prized possessions */   
 a[href$="481049"]>div.cave-grid>img {
-	content: url('https://i.ibb.co/7dVp0bSh/Void-Prized-Den.png') !important
+	content: url('https://i.ibb.co/4Z7s28WC/Void-Trike-Prized.png') !important
 }
 /* project primal */
 a[href$="492188"]>div.cave-grid>img {
@@ -728,3 +728,5 @@ img[src$="icon-beetle-silver.png"] {
 content: url("https://i.ibb.co/0RcTVT8n/Void-Silver-Beetles.png") !important;
 width: 20px !important;
 } 
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/cursors/cur-9/cur864.ani), url(https://cur.cursors-4u.net/cursors/cur-9/cur864.png), auto !important;} /* End https://www.cursors-4u.com */
