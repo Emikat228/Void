@@ -623,12 +623,12 @@ div.cave-grid>img[src$="unsortedlionsbanner.png"] {
 div.cave-grid>img[src$="prideoverviewbanner.png"] {
 	content: url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png')!important;
 }
-    
-a[href$="482237"]>div.cave-grid>img {
+ /* Prized possessions */   
+a[href$="481049"]>div.cave-grid>img {
 	content: url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png') !important
 }
-
-a[href$="486032"]>div.cave-grid>img {
+/* project primal */
+a[href$="492188"]>div.cave-grid>img {
 	content: url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png') !important
 }
 div.cave-grid>img[src$="caveunused.jpg"] {
