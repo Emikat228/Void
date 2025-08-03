@@ -611,32 +611,32 @@ div.cave-grid>img:hover{
 	overflow: hidden;
 	transition: 0.8s !important;
 }
-/*Unsorted Lions*/
+/*preg Lions*/
 div.cave-grid>img[src$="nestingbanner.png"] {
-	content: url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png')!important;
+	content: url('https://i.ibb.co/m5PvK1XJ/VoidPreg.png')!important;
 }
 /* unsorted cave */
 div.cave-grid>img[src$="unsortedlionsbanner.png"] {
-	content: url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png')!important;
+	content: url('https://i.ibb.co/PGR7c22F/Void-Unsorted.png')!important;
 }
 /* pride overview cave */
 div.cave-grid>img[src$="prideoverviewbanner.png"] {
-	content: url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png')!important;
+	content: url('https://i.ibb.co/kgn31pTP/Void-Overview.png')!important;
 }
  /* Prized possessions */   
 a[href$="481049"]>div.cave-grid>img {
-	content: url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png') !important
+	content: url('https://i.ibb.co/7dVp0bSh/Void-Prized-Den.png') !important
 }
 /* project primal */
 a[href$="492188"]>div.cave-grid>img {
-	content: url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png') !important
+	content: url('https://i.ibb.co/YFM1HfMS/Void-Project-P.png') !important
 }
 div.cave-grid>img[src$="caveunused.jpg"] {
-	content: url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png')!important;
+	content: url('https://i.ibb.co/vxYvmR1D/Void-Den-Bg-3.jpg')!important;
 }
 /* da mounds */
 .mound-grid img {
-	background: url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png');
+	background: url('https://i.ibb.co/xtShM1Fk/Void-Mounds.png');
 	background-size:cover;
 	width: 100%;
 	height: 100%;
@@ -660,28 +660,28 @@ content: url("https://static.lioden.com/images/dynamic/backgrounds/superbloodmoo
 /* change beetle book image */
     img[src$="den_ancestors.png"] {
 	background:none!important; 
-       content:url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png')!important;
+       content:url('https://i.ibb.co/8LzgDjPW/VoidKing.png')!important;
         transform: scaleX(-1);
 }
 img[src$="den_ancestorsfem.png"] {
 	background:none!important; 
-    content:url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png')!important;
+    content:url('https://i.ibb.co/jkxLw7Bt/Void-Pride.png')!important;
 
 }
 img[src$="den_achievements.png"] {
 	background:none!important; 
-    content:url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png')!important;
+    content:url('https://i.ibb.co/Y4D9ZkVL/Void-Achievements.png')!important;
     transform: scaleX(-1);
 }
 img[src$="den_showcase.png"] {
 	background:none!important; 
-       content:url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png')!important;
+       content:url('https://i.ibb.co/5gDk4tbm/Void-Showcase.png')!important;
 	
 	
 }
 img[src$="den_beetlebook.png"] {
 	background:none!important; 
-       content:url('https://i.ibb.co/q3QsH3Kc/Shadow-Temp-Cave-ezgif-com-resize.png');
+       content:url('https://i.ibb.co/bg1L5Nmb/Void-Beetle.png');
     transform: scaleX(-1);
 }
 
