@@ -631,6 +631,9 @@ a[href$="481049"]>div.cave-grid>img {
 a[href$="492188"]>div.cave-grid>img {
 	content: url('https://i.ibb.co/YFM1HfMS/Void-Project-P.png') !important
 }
+a[href$="494776"]>div.cave-grid>img {
+	content: url('https://i.ibb.co/spZGxhYj/Void3rd-Den.png') !important
+}
 div.cave-grid>img[src$="caveunused.jpg"] {
 	content: url('https://i.ibb.co/vxYvmR1D/Void-Den-Bg-3.jpg')!important;
 }
